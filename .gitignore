@@ -1,0 +1,59 @@
+# ==============================
+# Python : fichiers temporaires
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Environnements virtuels
+# ==============================
+.venv/
+venv/
+env/
+
+# ==============================
+# Configuration et secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# IDE et éditeurs
+# ==============================
+.idea/
+.vscode/
+*.iml
+
+# ==============================
+# Base de données locale
+# ==============================
+db.sqlite
+db.sqlite3
+*.sqlite
+*.sqlite3
+*.db
+
+# ==============================
+# Données générées par le scraper
+# ==============================
+exports/
+images/
+screenshots/
+*.csv
+*.log
+
+# ==============================
+# Système d'exploitation
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Tests et couverture
+# ==============================
+.pytest_cache/
+.coverage
+htmlcov/
