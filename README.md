@@ -45,8 +45,8 @@ Il n'y a pas besoin de télécharger `chromedriver` à la main. Depuis Selenium 
 Avec Git :
 
 ```bash
-git clone https://github.com/Emmanuelgael26dev/amazon-scraper.git
-cd amazon-scraper
+git clone https://github.com/Emmanuelgael26dev/amazon_scraping.git
+cd amazon_scraping
 ```
 
 
