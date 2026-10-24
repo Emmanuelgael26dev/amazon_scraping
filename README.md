@@ -154,7 +154,7 @@ Le reste (`csv`, `sqlite3`, `pathlib`, `urllib`, `decimal`...) fait partie de Py
 ## Organisation du code (MVC)
 
 ```text
-amazon-scraper/
+amazon_scraping/
 ├── main.py                        # point d'entrée
 ├── config.py                      # tous les réglages
 ├── requirements.txt
